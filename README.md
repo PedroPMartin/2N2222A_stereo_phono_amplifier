@@ -2,7 +2,6 @@
 =======
 Based on [Hans Polak and Ivey's](https://www.diyaudio.com/community/threads/2n2222a-phono-preamp.158918/post-6392737) design. <br>
 Thanks for Hans Polak and Ivey.
-![img](https://www.diyaudio.com/community/attachments/_mg_2731-jpg.1230783/)
 
 This design is similar but uses LM317 and no Zener diode
 
@@ -23,11 +22,12 @@ R4, R8, R104, R108:	100 <br>
 R5, R105:	12K <br>
 R6, R106:	270K <br>
 R7, R107:	6K <br>
-R10, R11, R110:	1K <br>
+R10, R110:	1K <br>
 R12, R112:	47K <br>
 R13, R113:	4K7 <br>
 R14, R114:	10K <br>
-R15:	15K  <br>
+R11: 220 <br>
+R15:	3K3  <br>
 U1:	LM317_TO-220 <cr>
 
 
