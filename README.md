@@ -2,7 +2,7 @@
 =======
 Based on [Hans Polak and Ivey's](https://www.diyaudio.com/community/threads/2n2222a-phono-preamp.158918/post-6392737) design. <br>
 Thanks for Hans Polak and Ivey.
-
+![img](https://github.com/PedroPMartin/2N2222A_stereo_phono_amplifier/blob/main/phono2.png)
 This design is similar but uses LM317 and no Zener diode
 
 BOM <br>
