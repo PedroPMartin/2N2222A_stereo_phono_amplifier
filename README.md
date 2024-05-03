@@ -12,6 +12,7 @@ C3, C103	6n8 <br>
 C4, C104	22n <br>
 C5, C7, C105:	47uF / 50V <br>
 C6, C106:	1uF/50V non electrolytic <br>
+C11,C111: 3p3 <br>
 J1, J3	TerminalBlock:TerminalBlock_bornier-3_P5.08mm  <br>
 J2	TerminalBlock:TerminalBlock_bornier-2_P5.08mm  <br>
 Q1, Q2, Q3, Q101, Q102, Q103:	2N2222A <br>
